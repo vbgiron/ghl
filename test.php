@@ -1,2 +1,2 @@
-echo "<script>console.log('test')</script>"
+echo "<script>console.log('test')</script>";
 

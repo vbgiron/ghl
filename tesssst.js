@@ -1,8 +1,4 @@
-<!---DARK MODE -->
-<script type="text/javascript">
-
-  
-    $(document).ready(() => {
+$(document).ready(() => {
         
         let count = 0;
 
@@ -1148,5 +1144,3 @@
         }
 
     })
-
-</script>
